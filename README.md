@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The code starts by importing the sys module and defining some variables for registers, flags, and the program counter (pc).
 
 It then reads the instructions from standard input (sys.stdin) and stores them in a list called ins. The instructions are stripped of leading/trailing whitespace.
@@ -64,3 +65,6 @@ where reg1 = area of parabola
 reg2 = lower limit 
 reg3 = upper limit
 returning type int
+=======
+# Simple-Assembler-and-Simulator
+>>>>>>> 2f4f6a18e38daa756a1f726cfc16117c01e11691
